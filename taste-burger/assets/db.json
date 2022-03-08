@@ -4,7 +4,8 @@
       "category": "Bebidas",
       "description": "Agua 500ml",
       "price": 5,
-      "id": "0ymwaTy0IeMlzsWixyjb"
+      "id": "0ymwaTy0IeMlzsWixyjb",
+      "srcImgMedia":"https://firebasestorage.googleapis.com/v0/b/taste-burger.appspot.com/o/menuImages%2Fagua500ml.webp?alt=media&token=9cfd9f5e-1734-44c2-a78a-c646a8d63d9e"
     },
     {
       "id": "3tktSGa16VEmRJifPQjo",
@@ -83,5 +84,11 @@
       "srcImgMedia": "https://firebasestorage.googleapis.com/v0/b/taste-burger.appspot.com/o/menuImages%2FhamburguesaDoble.webp?alt=media&token=da35998b-fc61-4804-adb6-33c43cb19776",
       "price": 15
     }
+  ],
+  "users": [
+      {
+          "id":0,
+          "role": "Administrador"
+      }
   ]
 }
